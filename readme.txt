@@ -2,7 +2,7 @@
 Contributors: trkr
 Tags: media library,file,files,image,images,photo,photos,attachment,attachments,upload,replace,overwrite
 Requires at least: 2.9
-Tested up to: 4.5.2
+Tested up to: 4.9.8
 Stable tag: 1.0.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
